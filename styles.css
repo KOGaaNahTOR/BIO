@@ -58,10 +58,10 @@ a{
   main{
     margin-top: 0.25vh;
     width: 92.5vw;
-    height: 85vh;
+    height: 82vh;
   }
   main>*{
-    margin: 0.05vw;
+    margin: 0.025vw;
   }
   .links{
     width: 85%;
@@ -75,13 +75,13 @@ a{
   main{
     margin-top: 2.5vh;
     width: 90vw;
-    height: 80vh;
+    height: 78vh;
   }
   main>*{
     margin: 0.15vw;
   }
   a{
-    margin: 1.25vw;
+    margin: 0.9vw;
     width:45%;
   }
 }
