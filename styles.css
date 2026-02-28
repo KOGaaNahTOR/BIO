@@ -67,4 +67,14 @@ a{
     width:45%;
   }
 }
-
+@media (max-width: 760px) {
+  main>*{
+    margin: 0.075vw;
+  }
+  .links{
+    width: 85%;
+  }
+  a{
+    width:80%;
+  }
+}
