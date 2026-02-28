@@ -21,6 +21,7 @@ main{
   padding-top: 5vh;
   padding-bottom: 5vh;
   flex-direction: column;
+  flex-wrap: wrap;
   background: #101010;
   border-radius: 20px;
 }
