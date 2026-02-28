@@ -21,7 +21,6 @@ main{
   padding-top: 5vh;
   padding-bottom: 5vh;
   flex-direction: column;
-  flex-wrap: wrap;
   background: #101010;
   border-radius: 20px;
 }
@@ -34,13 +33,14 @@ a>img{
   background-szie: 100%;
 }
 .links{
-  width: 95%;
-  height: 5vw;
+  width: auto;
   background-color: #353535;
   border-radius: 20px;
   display: flex;
   justify-content: space-around;
   align-items: center;
+  flex-wrap: wrap;
+  padding: 1%;
 }
 a{
   color: white;
@@ -48,7 +48,8 @@ a{
   display: flex;
   justify-content: space-between;
   align-items: center;
-  width: 25%;
+  width: 35%;
+  margin: 0.15vw;
 }
 #itch{
   filter: invert(1);
