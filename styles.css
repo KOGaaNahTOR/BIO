@@ -66,18 +66,19 @@ a{
   a{
     width:45%;
   }
+  @media (max-width: 750px) {
+    main{
+      margin-top: 0.25vh;
+    }
+    main>*{
+      margin: 0.075vw;
+    }
+    .links{
+      width: 85%;
+    }
+    a{
+      width:80%;
+    }
+  }
 }
-@media (max-width: 760px) {
-  main{
-    margin-top: 0.25vh;
-  }
-  main>*{
-    margin: 0.075vw;
-  }
-  .links{
-    width: 85%;
-  }
-  a{
-    width:80%;
-  }
-}
+
