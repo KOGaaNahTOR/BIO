@@ -57,8 +57,8 @@ a{
 @media (max-width: 767px) {
   main{
     margin-top: 0.25vh;
-    width: 90vw;
-    height: 90vh;
+    width: 92.5vw;
+    height: 85vh;
   }
   main>*{
     margin: 0.05vw;
@@ -75,7 +75,7 @@ a{
   main{
     margin-top: 2.5vh;
     width: 90vw;
-    height: 85vh;
+    height: 80vh;
   }
   main>*{
     margin: 0.15vw;
