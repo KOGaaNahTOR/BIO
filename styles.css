@@ -54,7 +54,7 @@ a{
 #itch{
   filter: invert(1);
 }
-@media (max-width: 740px) {
+@media (max-width: 767px) {
   main{
     margin-top: 0.25vh;
   }
@@ -68,7 +68,7 @@ a{
     width:80%;
   }
 }
-@media (min-width: 741px) and (max-width: 990px) {
+@media (min-width: 768px) and (max-width: 990px) {
   main{
     margin-top: 2.5vh;
     width: 90vw;
