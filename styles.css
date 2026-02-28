@@ -57,15 +57,17 @@ a{
 @media (max-width: 767px) {
   main{
     margin-top: 0.25vh;
+    width: 90vw;
+    height: 90vh;
   }
   main>*{
-    margin: 0.075vw;
+    margin: 0.1vw;
   }
   .links{
     width: 85%;
   }
   a{
-    margin: 0.3vw;
+    margin: 2.5vw;
     width:80%;
   }
 }
@@ -79,7 +81,7 @@ a{
     margin: 0.15vw;
   }
   a{
-    margin: 0.2vw;
+    margin: 1.25vw;
     width:45%;
   }
 }
