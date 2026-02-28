@@ -61,13 +61,13 @@ a{
     height: 90vh;
   }
   main>*{
-    margin: 0.1vw;
+    margin: 0.05vw;
   }
   .links{
     width: 85%;
   }
   a{
-    margin: 2.5vw;
+    margin: 2vw;
     width:80%;
   }
 }
