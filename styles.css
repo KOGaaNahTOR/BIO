@@ -65,6 +65,7 @@ a{
     width: 85%;
   }
   a{
+    margin: 0.3vw;
     width:80%;
   }
 }
@@ -78,6 +79,7 @@ a{
     margin: 0.15vw;
   }
   a{
+    margin: 0.2vw;
     width:45%;
   }
 }
