@@ -51,6 +51,9 @@ a{
   width: 35%;
   margin: 0.15vw;
 }
+a[href="https://www.furaffinity.net/user/kogaanahtor"]{
+  width: 80%
+}
 #itch{
   filter: invert(1);
 }
